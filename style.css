@@ -7,6 +7,11 @@ h1 {
     text-align: center;
 }
 
+h4 {
+    font-family: Garamond;
+    text-align: center;
+}
+
 p {
   font-family: Garamond;
   text-align: center;
@@ -15,7 +20,7 @@ p {
 img {
     height: auto; 
     max-width: 500px; 
-    border-radius: 25px 10px;
+    border-radius: 30px 10px;
 }
 
 .center {
