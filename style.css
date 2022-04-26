@@ -14,8 +14,8 @@ p {
 
 img {
     height: auto; 
-    max-width: 300px; 
-    border-radius: 25% 10%;
+    max-width: 500px; 
+    border-radius: 25px 10px;
 }
 
 .center {
