@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @mnstayrook
-- 👀 I’m interested in books.
-- 🌱 I’m currently learning coding!
-- 💞️ I’m looking to collaborate on a fun, interactive website.
-- 📫 How to reach me...
+Maegan Stayrook's Portfolio
+
+Welcome! This is Maegan's portfolio. As time passes, more will be added to it.
 
 <!---
+
 mnstayrook/mnstayrook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+Typical things inside a README file:
+- Name: The name of the project. This name should be a descriptive, specific name for your project and what it does.  
+- Description: A description of the project to let people know what the project is for. A list of features could also be added here as a sub-section. 
+- Installation: If needed, you could include steps to help people get started with your project.
+- Usage: You can include examples of how to use your project in this section and highlight the expected outcomes. 
+- Support: You can tell people where to go for help regarding your project (example: email, Twitter, etc.). 
+- Roadmap: This section could include any future fixes or improvements you might be planning for your project. 
+- License information: For open source projects, you can describe how they’re licensed.  
+
 --->
+
+
+
