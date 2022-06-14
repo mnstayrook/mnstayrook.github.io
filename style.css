@@ -45,12 +45,14 @@ div.topnavbar {
     margin-top: 50px;
 }
 
+
+
 p.intro {
   font-family: Garamond;
   text-align: center;
-  font-size: larger;
+  font-size: 1.5em;
   height: auto;
-  width: 400px;
+  width: 500px;
   padding: 10px;
   background-color: azure;
   margin-left: auto;
@@ -58,6 +60,35 @@ p.intro {
   margin-bottom: 35px;
 }
 
+p.projectsMERN {
+  font-family: Garamond;
+  text-align: left;
+  font-size: 1.75em;
+  height: auto;
+  width: max-content 900px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+}
+
+ol.assignments {
+    font-family: Garamond;
+    text-align: left;
+    font-size: 1.25em;
+    height: auto;
+    width: max-content 900px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 0px;
+    padding-bottom: 30px;
+    margin-left: 75px;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
 
 img.japan {
     display: block;
