@@ -1,8 +1,34 @@
 body {
     background-color: #E6F4F6;
-}  
+} 
 
+div.topnavbar {
+    text-align: center;
+}
 
+.topnavbar a {
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+.topnavbar a:link {
+    color: darkblue;
+}
+
+.topnavbar a:visited {
+    color: darkblue;
+}
+
+.topnavbar a:hover {
+    color: gray;
+}
+
+.topnavbar a:active {
+    color: maroon;
+}
 
 .header1 {
     font-family: Papyrus;
