@@ -2,16 +2,24 @@ body {
     background-color: #E6F4F6;
 } 
 
+
+
 div.topnavbar {
     text-align: center;
-}
-
-.topnavbar a {
+    display: grid;
+    grid-template-columns: 5fr 5fr 5fr 5fr;
+    align-items: center;
+    width: 750px;
+    margin: auto;
+  
+  }
+  
+  .topnavbar a {
+    padding: 1rem;
     color: black;
     text-align: center;
-    padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 18px;
   }
   
 .topnavbar a:link {
