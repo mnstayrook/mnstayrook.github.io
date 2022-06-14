@@ -3,7 +3,6 @@ body {
 } 
 
 
-
 div.topnavbar {
     text-align: center;
     display: grid;
@@ -60,6 +59,16 @@ p.intro {
   margin-bottom: 35px;
 }
 
+
+p.basic {
+    text-indent: 25px;
+    text-align:justify;
+    font-family: Garamond;
+    font-size: 1.25em;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
 p.projectsMERN {
   font-family: Garamond;
   text-align: left;
@@ -102,3 +111,11 @@ img.japan {
     padding: 10px;
 }
 
+footer {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: auto;
+}
