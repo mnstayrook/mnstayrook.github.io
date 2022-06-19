@@ -111,6 +111,25 @@ img.japan {
     padding: 10px;
 }
 
+figure {
+    text-align: center;
+    border: 1px dotted gray;
+    margin: 5px; /* adjust as needed */
+}
+figure.p.img {
+    vertical-align: top;
+    display: inline-block;
+}
+figure figcaption {
+    border: 1px dotted blue;
+    align: center;
+    text-align: center;
+    font-family: 'Lucida Calligraphy';
+
+}
+
+
+
 footer {
     margin-top: 50px;
     margin-bottom: 30px;
