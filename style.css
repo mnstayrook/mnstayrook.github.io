@@ -6,9 +6,9 @@ body {
 div.topnavbar {
     text-align: center;
     display: grid;
-    grid-template-columns: 5fr 5fr 5fr 5fr;
+    grid-template-columns: 5fr 5fr;
     align-items: center;
-    width: 750px;
+    width: 500px;
     margin: auto;
   
   }
@@ -44,7 +44,11 @@ div.topnavbar {
     margin-top: 50px;
 }
 
-
+.subheader {
+    font-family: Papyrus;
+    text-align: center;
+    padding-top: 2em;
+}
 
 p.intro {
   font-family: Garamond;
