@@ -1,7 +1,17 @@
+/* Color of Entire Page - CP onto other pages to make it match the theme */
 body {
     background-color: #E6F4F6;
 } 
 
+/* Page Header - CP onto other pages */
+.header1 {
+    font-family: Papyrus;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+/* Navigation Bar at Top of Page - CP onto other pages */
 div.topnavbar {
     text-align: center;
     display: grid;
@@ -9,7 +19,6 @@ div.topnavbar {
     align-items: center;
     width: 500px;
     margin: auto;
-  
   }
   
   .topnavbar a {
@@ -36,19 +45,7 @@ div.topnavbar {
     color: maroon;
 }
 
-.header1 {
-    font-family: Papyrus;
-    text-align: center;
-    font-size: 50px;
-    margin-top: 50px;
-}
-
-.subheader {
-    font-family: Papyrus;
-    text-align: center;
-    padding-top: 2em;
-}
-
+/* Home Page Intro */
 p.intro {
   font-family: Garamond;
   text-align: center;
@@ -62,6 +59,12 @@ p.intro {
   margin-bottom: 35px;
 }
 
+/* Basic h3 Header & Paragraph Formatting */
+.subheader {
+    font-family: Papyrus;
+    text-align: center;
+    padding-top: 2em;
+}
 
 p.basic {
     text-indent: 25px;
@@ -72,6 +75,14 @@ p.basic {
     padding-right: 150px;
 }
 
+/* Bio & Contact Info Formatting */
+.navnav-tabs {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+
+/* Projects Page Formatting */
 p.projectsMERN {
   font-family: Garamond;
   text-align: left;
@@ -87,21 +98,7 @@ p.projectsMERN {
   margin-bottom: 15px;
 }
 
-ol.assignments {
-    font-family: Garamond;
-    text-align: left;
-    font-size: 1.25em;
-    height: auto;
-    width: max-content 900px;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 0px;
-    padding-bottom: 30px;
-    margin-left: 75px;
-    margin-right: auto;
-    margin-bottom: 30px;
-}
-
+/* Japan Image on Home Page */
 img.japan {
     display: block;
     margin-left: auto;
@@ -114,23 +111,8 @@ img.japan {
     padding: 10px;
 }
 
-figure {
-    text-align: center;
-    border: 1px dotted gray;
-    margin: 5px; /* adjust as needed */
-}
-figure.p.img {
-    vertical-align: top;
-    display: inline-block;
-}
-figure figcaption {
-    border: 1px dotted blue;
-    text-align: center;
-    text-align: center;
-    font-family: 'Lucida Calligraphy';
 
-}
-
+/* Projects Page Card Formatting */
 .card-deck {
     display: flex;
     margin: 10px;
@@ -142,25 +124,32 @@ figure figcaption {
     padding: 10px;
     margin: 15px;
 }
+
 img.card-img-top {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
     height: auto;
 }
-
+ /* Card Text */
 .card-title {
     text-align: center;
+    font-family: Papyrus;
+    font-size: 1.25em;
 }
 .card-body {
     text-align: justify;
     hyphens: auto;
+    font-family: Garamond;
 }
 
 .card-footer {
     text-align: center;
+    font-family: Garamond;
 }
 
+
+/* Page Footer - CP onto other pages */
 footer {
     margin-top: 50px;
     margin-bottom: 30px;
