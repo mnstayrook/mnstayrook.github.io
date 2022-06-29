@@ -5,7 +5,7 @@ Welcome! This is Maegan Stayrook's Portfolio of her coding exercises through MIT
 You can contact her at maegan.stayrook@gmail.com.
 
 Roadmap:
-Currently, Maegan is actively working on this portfolio and plans to make huge strides in improving and upgrading this site. She wants to create it from scratch in order to learn the process, so she will not be using Bootstrap and will instead be implementing what she learns directly into the website or into her assignments to showcase her skills.
+Currently, Maegan is actively working on this portfolio and plans to make huge strides in improving and upgrading this site. She wants to create it from scratch in order to learn the process, so she will not be using too many Bootstrap elements and will instead be implementing what she learns directly into the website or into her assignments to showcase her skills. When she does use Bootstrap, they will be marked.
 
 Licenses: Many of the assignments have their own licenses attached to them, such as the MIT License for any MIT projects.
 
