@@ -2,7 +2,6 @@ body {
     background-color: #E6F4F6;
 } 
 
-
 div.topnavbar {
     text-align: center;
     display: grid;
@@ -132,7 +131,35 @@ figure figcaption {
 
 }
 
+.card-deck {
+    display: flex;
+    margin: 10px;
+}
 
+.card {
+    width: 33%;
+    border: solid black 2px;
+    padding: 10px;
+    margin: 15px;
+}
+img.card-img-top {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: auto;
+}
+
+.card-title {
+    text-align: center;
+}
+.card-body {
+    text-align: justify;
+    hyphens: auto;
+}
+
+.card-footer {
+    text-align: center;
+}
 
 footer {
     margin-top: 50px;
