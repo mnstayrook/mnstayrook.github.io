@@ -125,7 +125,7 @@ figure.p.img {
 }
 figure figcaption {
     border: 1px dotted blue;
-    align: center;
+    text-align: center;
     text-align: center;
     font-family: 'Lucida Calligraphy';
 
